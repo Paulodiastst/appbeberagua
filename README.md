@@ -7,9 +7,6 @@
 </P>
 
 
-<p align="center"> Em desenvolvimento ⚠️  </p> 
-
-
 ## - Configurando layout xml ScrollView. 
 ## - Modificação do codigo Java no MainActivity.
 ## - Definindo som dos eventos do app.
